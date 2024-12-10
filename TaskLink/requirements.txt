@@ -1,0 +1,4 @@
+Flask==2.3.2
+Flask-Session==0.4.0
+Flask-SocketIO==5.3.3
+sqlite3
